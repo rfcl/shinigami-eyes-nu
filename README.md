@@ -18,6 +18,7 @@ A fork of the popular Shinigami Eyes addon for Chrome/Firefox that crowdsources 
 ## Intersectionally Harmful 
 - SWERF (Sex-Work Exclusionary Radical Feminist)
 - white nationalist / racist / fascist ideologies
+- misogynistic views and ideologies
 - Reporting / Research / Published work that misrepresented, misleading, factually incorrect, or deceptively framed with intent or the effect of harming vulnerable or marginalised groups.
 
 This fork is also intended to allow for identification of the entities that are supportive of LGBTQIA+ people and rights that are generally speaking the inverse of many of the ideologies and views outlined above.
