@@ -2,27 +2,27 @@
 
 A fork of the popular Shinigami Eyes addon for Chrome/Firefox that crowdsources the identification of entities that are known to hold, advocate for, or endorse by association views or ideologies that fall into a number of categories:
 
-** General **
+## General
 - anti-LGBTQIA+
 
-** Anti-Trans **
+## Anti-Trans
 - transphobic / homophobic
 - TERF (Trans-Exlusionary Radical Feminist) / Gender Critical
 - transmisogyny
 
-** Gatekeeping **
+## Gatekeeping 
 - truscum (Medical gatekeeping of trans people)
 - invalidation of non-binary identities
 - other forms of gatekeeping / discrimination against specific sub-sets of the LGBTQIA+ community as a whole
 
-** Intersectionally Harmful **
+## Intersectionally Harmful 
 - SWERF (Sex-Work Exclusionary Radical Feminist)
 - white nationalist / racist / fascist ideologies
 - Reporting / Research / Published work that misrepresented, misleading, factually incorrect, or deceptively framed with intent or the effect of harming vulnerable or marginalised groups.
 
 This fork is also intended to allow for identification of the entities that are supportive of LGBTQIA+ people and rights that are generally speaking the inverse of many of the ideologies and views outlined above.
 
-** Identifiable Types of Entities **
+## Identifiable Types of Entities 
 The types of entities this add-on is designed to capture include:
 
 - People
@@ -31,7 +31,7 @@ The types of entities this add-on is designed to capture include:
 - Organisations
 - Publications, Research, and other forms of harmful misinformation
 
-** Motivation for Fork and Development **
+## Motivation for Fork and Development 
 
 The rationale and purposes behind forking this add-on so it can be updated and re-launched for the community are:
 
@@ -47,7 +47,7 @@ The rationale and purposes behind forking this add-on so it can be updated and r
 
 - Potential for greater inclusion of anti-LGBTQIA+ content, as well as intersectionally harmful content collectively while allowing users to configure the add-on according to their preferences and use cases.
 
-** Development Goals and Priorities **
+## Development Goals and Priorities 
 It's important to set expectations by making it clear that this is one of various projects with a sole developer at this stage so development may take some time. 
 
 With that said, the primary development goals at this stage in order of prioritisation are:
